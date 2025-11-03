@@ -1,7 +1,7 @@
 const slides = [
   "slides/slide1.png",
   "slides/slide2.png",
-  "slides/slide3.png",
+  "slides/slide3v2.png",
   "slides/slide4.png",
   "slides/slide5.png",
   "slides/slide6.png",
